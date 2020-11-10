@@ -1,0 +1,23 @@
+{
+  "name": "Automatic-grade-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcusMors/Automatic-grade-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcusMors/Automatic-grade-system/issues"
+  },
+  "homepage": "https://github.com/MarcusMors/Automatic-grade-system#readme",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  }
+}
